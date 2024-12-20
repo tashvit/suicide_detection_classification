@@ -1,0 +1,2 @@
+# suicide_detection_classification
+Binary classification
