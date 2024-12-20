@@ -1,5 +1,7 @@
 # Suicide detection
 
+[Kaggle dataset link](https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch)
+
 Contents
 
 1. Data analysis\
